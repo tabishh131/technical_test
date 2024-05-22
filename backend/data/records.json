@@ -1,0 +1,219 @@
+[
+    {
+        "id": 1,
+        "title": "Meeting Notes",
+        "notes": "Discussed project requirements and deadlines.",
+        "status": "completed"
+    },
+    {
+        "id": 2,
+        "title": "Shopping List",
+        "notes": "Milk, Bread, Eggs, Butter.",
+        "status": "pending"
+    },
+    {
+        "id": 3,
+        "title": "Workout Plan",
+        "notes": "Monday: Chest, Tuesday: Back, Wednesday: Legs.",
+        "status": "ongoing"
+    },
+    {
+        "id": 4,
+        "title": "Book List",
+        "notes": "1984 by George Orwell, To Kill a Mockingbird by Harper Lee.",
+        "status": "completed"
+    },
+    {
+        "id": 5,
+        "title": "Recipe",
+        "notes": "Ingredients for chocolate cake: flour, sugar, cocoa powder, baking powder, eggs.",
+        "status": "pending"
+    },
+    {
+        "id": 6,
+        "title": "Travel Itinerary",
+        "notes": "Flight to Paris on June 1st, hotel check-in at 3 PM.",
+        "status": "completed"
+    },
+    {
+        "id": 7,
+        "title": "Conference Schedule",
+        "notes": "Keynote at 10 AM, Breakout sessions at 1 PM.",
+        "status": "ongoing"
+    },
+    {
+        "id": 8,
+        "title": "Homework Assignments",
+        "notes": "Math: Page 42, Problems 1-10. Science: Read Chapter 3.",
+        "status": "pending"
+    },
+    {
+        "id": 9,
+        "title": "Gardening Tips",
+        "notes": "Water plants early in the morning, use compost for better growth.",
+        "status": "ongoing"
+    },
+    {
+        "id": 10,
+        "title": "Birthday Party Plan",
+        "notes": "Venue: Central Park, Time: 4 PM, Guests: 20.",
+        "status": "completed"
+    },
+    {
+        "id": 11,
+        "title": "Project Proposal",
+        "notes": "Prepare project proposal for client meeting.",
+        "status": "pending"
+    },
+    {
+        "id": 12,
+        "title": "Job Interview Preparation",
+        "notes": "Research company, prepare answers for common interview questions.",
+        "status": "ongoing"
+    },
+    {
+        "id": 13,
+        "title": "Budget Planning",
+        "notes": "Create budget for monthly expenses.",
+        "status": "completed"
+    },
+    {
+        "id": 14,
+        "title": "Home Renovation Ideas",
+        "notes": "Browse websites for home renovation inspiration.",
+        "status": "pending"
+    },
+    {
+        "id": 15,
+        "title": "Daily Journal",
+        "notes": "Write about today's experiences and thoughts.",
+        "status": "ongoing"
+    },
+    {
+        "id": 16,
+        "title": "Language Learning",
+        "notes": "Practice vocabulary and grammar for 30 minutes.",
+        "status": "completed"
+    },
+    {
+        "id": 17,
+        "title": "Health Goals",
+        "notes": "Exercise for 1 hour, eat a balanced diet.",
+        "status": "pending"
+    },
+    {
+        "id": 18,
+        "title": "Financial Investments",
+        "notes": "Research potential investment opportunities.",
+        "status": "ongoing"
+    },
+    {
+        "id": 19,
+        "title": "Household Chores",
+        "notes": "Do laundry, vacuum floors, clean kitchen.",
+        "status": "completed"
+    },
+    {
+        "id": 20,
+        "title": "Study Schedule",
+        "notes": "Study for upcoming exams for 2 hours.",
+        "status": "pending"
+    },
+    {
+        "id": 21,
+        "title": "Project Management Training",
+        "notes": "Enroll in online project management course.",
+        "status": "ongoing"
+    },
+    {
+        "id": 22,
+        "title": "Music Playlist",
+        "notes": "Create a playlist for the road trip.",
+        "status": "completed"
+    },
+    {
+        "id": 23,
+        "title": "Tech Gadgets Wishlist",
+        "notes": "Research latest tech gadgets and add to wishlist.",
+        "status": "pending"
+    },
+    {
+        "id": 24,
+        "title": "Pet Care Routine",
+        "notes": "Feed pets, take them for a walk, groom them.",
+        "status": "ongoing"
+    },
+    {
+        "id": 25,
+        "title": "Hobby Exploration",
+        "notes": "Try out a new hobby like painting or photography.",
+        "status": "completed"
+    },
+    {
+        "id": 26,
+        "title": "Health Checkup",
+        "notes": "Schedule doctor's appointment for annual health checkup.",
+        "status": "pending"
+    },
+    {
+        "id": 27,
+        "title": "Job Application",
+        "notes": "Update resume, apply for new job openings.",
+        "status": "ongoing"
+    },
+    {
+        "id": 28,
+        "title": "Volunteering Opportunities",
+        "notes": "Research local volunteering opportunities.",
+        "status": "completed"
+    },
+    {
+        "id": 29,
+        "title": "DIY Project Ideas",
+        "notes": "Browse Pinterest for DIY project ideas.",
+        "status": "pending"
+    },
+    {
+        "id": 30,
+        "title": "Financial Planning",
+        "notes": "Review investment portfolio, set financial goals.",
+        "status": "ongoing"
+    },
+    {
+        "id": 31,
+        "title": "Travel Bucket List",
+        "notes": "Create a list of dream travel destinations.",
+        "status": "completed"
+    },
+    {
+        "id": 32,
+        "title": "Self-Care Routine",
+        "notes": "Meditate, take a relaxing bath, practice gratitude.",
+        "status": "pending"
+    },
+    {
+        "id": 33,
+        "title": "Online Courses",
+        "notes": "Enroll in online courses to learn new skills.",
+        "status": "ongoing"
+    },
+    {
+        "id": 34,
+        "title": "Home Cleaning Checklist",
+        "notes": "Create a checklist for deep cleaning the house.",
+        "status": "completed"
+    },
+    {
+        "id": 35,
+        "title": "Family Movie Night",
+        "notes": "Choose a movie and prepare snacks for family movie night.",
+        "status": "pending"
+    },
+    {
+        "id": 36,
+        "title": "Career Development Plan",
+        "notes": "Set career goals, plan steps to achieve them",
+        "status": "pending"
+    }
+
+]
